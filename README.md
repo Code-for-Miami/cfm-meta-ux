@@ -1,5 +1,5 @@
 # Code for Miami Meta UX
-Let's UX design methods to improve attendee experience on open hack night
+Let's use UX design methods to improve attendee experience on open hack night
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
