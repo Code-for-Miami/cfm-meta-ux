@@ -42,7 +42,7 @@ Note: this is the naive first design based on casual observation and intuition
 * Action should be rewarded on the other side with recognition or maybe time to report the work done, however small
 * give people direction to either network or continue working for the remainder of the time
 
-### Additional notes
+## Additional notes
 
 * There should be some food (maybe even just some light snacks) since many may not have had a chance to eat dinner yet
 
