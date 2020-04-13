@@ -30,8 +30,9 @@ This is a naive virtual Civic Hacking 101 design in response to COVID-19
     * If we are looking for any other sort of person, also highlight
 
 ### Brief and enticing introduction to current projects
-    * Highlight what makes the project great and what they need help in
-    * Go to Open Hack Night or lurk for more information
+
+* Highlight what makes the project great and what they need help in
+* Go to Open Hack Night or lurk for more information
 
 ### Call to action, how to get involved
 
